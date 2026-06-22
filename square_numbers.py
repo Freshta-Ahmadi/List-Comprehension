@@ -1,0 +1,5 @@
+
+numbers = [1, 2, 2, 3, 5, 8, 13, 21, 34, 55]
+
+square_numbers = [number ** number for number in numbers]
+print(square_numbers)
